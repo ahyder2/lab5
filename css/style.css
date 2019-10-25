@@ -1,11 +1,12 @@
 body {
-	background-image: url(images/space.jpg);
+	background-image: url(/images/space.jpg);
 	background-size: cover;
 }
+
 h1 {
 	font-family: "Times New Roman";
 	font-style: italic;
-	font-size: 150%;
+	font-size: 300%;
 	text-align: center;
 	color: mediumorchid;
 }
