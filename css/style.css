@@ -10,17 +10,13 @@ h1 {
 	color: mediumorchid;
 }
 
-table {
+table, th, td {
 	font-style: "Arial";
 	font-color: midnightblue;
 	font-size: 125%;
 	border: 1px solid black;
 	background-color: orchid;
 	text-align: center;
-}
-th, td {
-	font-style: "Lucida Console";
-	font-color: midnightblue;
 }
 
 p {
