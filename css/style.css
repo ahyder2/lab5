@@ -9,12 +9,8 @@ h1 {
 	text-align: center;
 	color: mediumorchid;
 }
-p {
-	font-style: bold;
-	font-color: midnightblue;
-	font-size: 150%;
-}
-table.center {
+
+table {
 	font-style: "Arial";
 	font-color: midnightblue;
 	font-size: 125%;
@@ -25,4 +21,10 @@ table.center {
 th, td {
 	font-style: "Lucida Console";
 	font-color: midnightblue;
+}
+
+p {
+	font-style: bold;
+	font-color: midnightblue;
+	font-size: 150%;
 }
