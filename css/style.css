@@ -1,20 +1,20 @@
-body{
+body {
 	background-image: url("images/space.jpeg");
 	background-size: cover;
 }
-h1{
+h1 {
 	font-style: italic;
 	font-family: "Times New Roman";
 	font-size: 150%;
 	text-align: center;
 	color: mediumorchid;
 }
-p{
+p {
 	font-style: bold;
 	font-color: midnightblue;
 }
 }
-table.center{
+table.center {
 	font-style: "Arial";
 	font-color: midnightblue;
 	font-size: 125%;
@@ -22,7 +22,7 @@ table.center{
 	background-color: orchid;
 	text-align: center;
 }
-th, td{
+th, td {
 	font-style: "Lucida Console"
-	font-color: black;
+	font-color: midnightblue;
 }
